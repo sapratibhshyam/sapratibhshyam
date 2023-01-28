@@ -6,6 +6,9 @@ Workspace Specs : <img src="https://img.shields.io/badge/lenovo%20laptop-0096D6?
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Saparatibh;Data+Analyst💻;Student+🎓;Developer;Content+Writer)](https://git.io/typing-svg)
+
+
 <h1 align='center'> Hands on Experience in </h2>
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>

@@ -1,7 +1,7 @@
-Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?style=plastic&logo=hp&logoColor=white">
-<h1 align='center'> Hey! This is Divy Singhal</h1>
+Workspace Specs : <img src="https://img.shields.io/badge/lenovo%20laptop-0096D6?style=plastic&logo=lenovo&logoColor=white">
+<h1 align='center'> Hey! This is Sapratibh Shyam</h1>
 
-<h3 align='center'>| Explorer | Web Developer | Computer Science Engineer |</h3> 
+<h3 align='center'>| Data Analyst | Developer | Content Writer | Computer Science Engineer |</h3> 
 <h3 align='center'> Exploring the latest technologies </h3>
 
 <br>
@@ -37,16 +37,16 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 
 
 ## 📊 GitHub Stats:
-![Divy Singhal's Stats](https://github-readme-stats.vercel.app/api?username=divysinghal0123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=divysinghal0123&theme=highcontrast)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divysinghal0123&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+![Sapratibh Shyam 's Stats](https://github-readme-stats.vercel.app/api?username=sapratibhshyam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sapratibhshyam&theme=highcontrast)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapratibhshyam&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)</br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=divysinghal0123&theme=onestar&no-frame=true&no-bg=false&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=sapratibhshyam&theme=onestar&no-frame=true&no-bg=false&column=-1)
 
 <hr>
 
-![Divy Singhal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=divysinghal0123&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+![Sapratibh Shyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sapratibhshyam&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <hr>
 
@@ -67,5 +67,5 @@ Workspace Specs : <img src="https://img.shields.io/badge/hp%20laptop-0096D6?styl
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/divysinghal0123)
+![Profile views](https://gpvc.arturio.dev/sapratibhshyam)
 
